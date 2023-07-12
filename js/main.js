@@ -7,7 +7,7 @@ $(function () {
         // speed: 2000,
         pauseOnHover: false,
         pauseOnFocus: false,
-        fade: true,
+        // fade: true,
     });
 
     // 콘텐츠 : 화살표
