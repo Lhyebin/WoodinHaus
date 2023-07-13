@@ -151,8 +151,6 @@
     max-width: calc((100% - 1200px) / 2 + 1185px);
     width: 100%;
     margin: 0 0 0 auto;
-
-    gap: 100px;
 }
 
 .main_content .content_wrap>* {
